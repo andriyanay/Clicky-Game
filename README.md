@@ -1,3 +1,10 @@
+## Overview
+
+The Clicky Game is an application where users click images in order to earn points. The user wins when s/he selects 12 different images from the pool that continues moving on the field. 
+Cat images were found here: http://www.cutestpaw.com/tag/cats/
+
+## Technologies Used
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
