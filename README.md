@@ -1,3 +1,7 @@
+## Deployed App
+
+https://fast-stream-94678.herokuapp.com/
+
 ## Overview
 
 The Clicky Game is an application where users click images in order to earn points. The user wins when s/he selects 12 different images from the pool that continues moving on the field. 
