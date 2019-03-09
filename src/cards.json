@@ -49,8 +49,26 @@
   },
   {
     "id": 9,
-    "name": "Tcat9",
+    "name": "cat9",
     "image": "https://i.postimg.cc/43jV8CcH/9.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "cat10",
+    "image": "https://i.postimg.cc/D06b7wvW/10.jpg",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "cat11",
+    "image": "https://i.postimg.cc/brptXthc/11.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "cat12",
+    "image": "https://i.postimg.cc/dQjC242q/12.jpg",
     "count": 0
   }
 ]
